@@ -1,1 +1,1 @@
-# Three-Door-Problem
+where a person chooses one of three doors in hope of winning a valuable prize but is subsequently offered the choice of changing his or her selection—is a well known and often discussed probability problem
